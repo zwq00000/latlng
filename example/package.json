@@ -1,0 +1,25 @@
+{
+  "name": "vue-input-latlng",
+  "version": "2.0.0",
+  "description": "vue masked input for latitude/longitud",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "babel source"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "vue-input-mask": "0.0.10"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "^4.0.0",
+    "@vue/cli-plugin-eslint": "^4.0.0",
+    "@vue/cli-service": "^4.0.0",
+    "babel-eslint": "^10.0.3",
+    "eslint": "^5.16.0",
+    "eslint-plugin-vue": "^5.0.0",
+    "lint-staged": "^9.4.2",
+    "vue-template-compiler": "^2.6.10"
+  }
+}
